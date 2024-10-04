@@ -1,0 +1,10 @@
+C:\Users\stefa\source\repos\CRUD ALUMNOS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\stefa\source\repos\CRUD ALUMNOS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\stefa\source\repos\CRUD ALUMNOS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\stefa\source\repos\CRUD ALUMNOS\WindowsFormsApp1\obj\Debug\RegistroDeAlumnos.csproj.AssemblyReference.cache
+C:\Users\stefa\source\repos\CRUD ALUMNOS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\stefa\source\repos\CRUD ALUMNOS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\stefa\source\repos\CRUD ALUMNOS\WindowsFormsApp1\obj\Debug\RegistroDeAlumnos.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\CRUD ALUMNOS\WindowsFormsApp1\obj\Debug\RegistroDeAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\CRUD ALUMNOS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\stefa\source\repos\CRUD ALUMNOS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
